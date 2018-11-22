@@ -1,0 +1,65 @@
+
+/*
+.droptarget {
+    float: left; 
+    width: 100px; 
+    height: 35px;
+    margin: 15px;
+    padding: 10px;
+    border: 1px solid red;
+}*/
+
+
+#ball {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	border: 1px solid red;
+	background-color: #fff;
+}
+
+.droppable{
+	height: 200px;
+	width: 200px;
+	border: 1px solid blue;
+	float: right;
+	transition: all .5s ease;
+}
+
+.box {
+	height: 100px;
+	width: 200px;
+	border: 1px solid green;
+	position: relative;
+	top: 50px;
+	left: 100px;
+	text-align: center;
+}
+
+#slider {
+	width: 90%;
+	height: 20px;
+	background-color: lightgrey;
+	margin: 20px 0;
+}
+
+.thumb {
+	height: 30px;
+	width: 20px;
+	background-color: blue;
+	/*top: -45px;*/
+	position: relative;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
