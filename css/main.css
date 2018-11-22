@@ -48,7 +48,8 @@
 	width: 20px;
 	background-color: blue;
 	/*top: -45px;*/
-	position: relative;	
+	position: relative;
+	transition: all .3s ease;	
 }
 
 
